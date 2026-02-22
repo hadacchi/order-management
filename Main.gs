@@ -2,7 +2,8 @@ function main() {
   const labelMapping = [
     { label: "AutoProcess/Order/Amazon", type: "Amazon" },
     { label: "AutoProcess/Order/Test", type: "Test" },
-    { label: "AutoProcess/Order/Yodobashi", type: "Yodobashi"}
+    { label: "AutoProcess/Order/Yodobashi", type: "Yodobashi"},
+    { label: "AutoProcess/Order/Rakuten", type: "Rakuten"}
     //{ label: "AutoProcess/Alert",        type: "Alert" }
   ];
 
